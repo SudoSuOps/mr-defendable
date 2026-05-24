@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+  }
+
+  ::selection {
+    background: rgba(212, 160, 23, 0.35);
+    color: #fafaf5;
+  }
+}
+
+@layer components {
+  .container-reading {
+    @apply mx-auto px-6 max-w-3xl;
+  }
+
+  .container-narrow {
+    @apply mx-auto px-6 max-w-4xl;
+  }
+
+  .container-wide {
+    @apply mx-auto px-6 max-w-6xl;
+  }
+
+  .gold-rule {
+    @apply border-t border-gold-700;
+  }
+
+  .ring-ring {
+    @apply text-gold-400 font-mono uppercase tracking-widest text-xs;
+  }
+
+  .signature {
+    @apply text-gold-400 italic;
+  }
+
+  .deed-tag {
+    @apply inline-block font-mono text-xs px-2 py-1 rounded
+           bg-ink-800 text-gold-300 border border-gold-800;
+  }
+}
