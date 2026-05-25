@@ -1,9 +1,16 @@
 # mrdefendable.com
+#
+# Last updated: 2026-05-25 (v0.1.0 brand-stack lock · Hedera anchoring doctrine cleanup · operator-entity unification)
 
 > Principal voice / FACE layer of the DefendableOS ecosystem.
 > Trusted operator layer for AI defense, dispositions, and proof.
 > Built on 30 years of CRE-grade discipline.
 > Ring ring — Mr. Defendable speaking. To the shed.
+
+## Operator
+
+Swarm and Bee LLC · Florida · D-U-N-S 138652395 · DBA Swarm & Bee AI
+A surface of DefendableOS · the third-party defense layer for AI operators.
 
 ## Who is Mr. Defendable
 
@@ -11,13 +18,6 @@ Donovan Mackey · 30-year top 1% industrial CRE broker · $8B in closed transact
 · founder of DefendableOS · the principal voice of the trust-infrastructure layer
 for AI. The brand sits ABOVE the offense/claw ecosystem and POSITIONS the entire
 stack as defense.
-
-## The 4-Domain Defense Stack
-
-- mrdefendable.com — FACE (principal voice / human interface)
-- defendableos.com — SYSTEM (trust operating system / product)
-- offensetotheshed.com — CULTURE (written doctrine / 5-pillar blog)
-- painintheshed.com — MEDIA (podcast / cost-of-intelligence)
 
 ## The Doctrine
 
@@ -33,7 +33,7 @@ stack as defense.
 - streetvocab.eth — vocabulary as deeded asset class
 - streetledger.eth — books-and-records / receipts / deeds
 - streetchat.eth — live conversation intake
-- Hedera HCS topic 0.0.10291838 — immutable timestamping
+- DefendableLedger — sovereign in-house anchor · hash-verifiable · no external chain dependency
 
 ## Pages
 
@@ -46,3 +46,24 @@ stack as defense.
 - /board-room — Institutional artifacts and memos
 - /assignments — Active and completed engagements
 - /request-proposal — Principal-direct intake (24hr SLA)
+
+## Defendable brand stack · canonical v0.1.0 (2026-05-25)
+
+The DefendableOS ecosystem operates as a 10-domain coordinated brand surface.
+This canonical block supersedes all prior brand-stack definitions across the network.
+
+- **defendableos.com** — SYSTEM · the operating system / product
+- **swarmandbee.ai** — UMBRELLA · operator firm + dataset bakery
+- **opendefendable.com** — OPEN · standards body
+- **defendablerouter.com** — SPINE · drop-in AI router (write-only audit rail)
+- **defendablecloud.com** — COMPUTE · operator-owned private inference (128 RTX 6000 Blackwell)
+- **defendableledger.com** — LEDGER · sovereign in-house books and records
+- **mrdefendable.com** — FACE · principal voice / human interface
+- **offensetotheshed.com** — CULTURE · doctrine + war stories
+- **painintheshed.com** — MEDIA · cost-of-intelligence podcast
+- **defendablehack.com** — DEV · researcher / hacker tier
+
+Legacy / superseded (not part of v0.1.0):
+- ledger.mrdefendable.com → now defendableledger.com
+- chat.mrdefendable.com → deprecated
+- defendabledocs.com → consolidated into defendableos.com
