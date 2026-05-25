@@ -53,7 +53,7 @@ export default function RequestProposal() {
 
       <div className="border-t border-ink-700 pt-8 text-sm text-ink-500">
         <p className="mb-2">
-          Direct email: <span className="font-mono text-gold-400">build@defendableos.com</span>
+          Direct email: <span className="font-mono text-gold-400">build@swarmandbee.ai</span>
         </p>
         <p>
           All intake routed through Resend → Proton inbox. Confidentiality maintained throughout.
