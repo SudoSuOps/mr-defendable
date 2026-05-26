@@ -55,7 +55,9 @@ export default function Layout({ children }: { children: ReactNode }) {
           <div>
             <div className="font-serif text-lg text-cream-50 mb-2">Mr. Defendable</div>
             <p className="text-ink-500 leading-relaxed">
-              Principal voice of the DefendableOS ecosystem. Books and records grade.
+              Commissioner of Accountable AI Execution · public guardian of the
+              DefendableOS League. The Commissioner protects the standard · the
+              referees call the game · the human owner grants finality.
               Ring ring — Mr. Defendable speaking.
             </p>
           </div>
